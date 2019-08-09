@@ -24,4 +24,7 @@ html知识手册：https://www.runoob.com/html/html-tutorial.html<br/>
 css知识手册：https://www.runoob.com/css/css-tutorial.html<br/>
 这部分课程比较简单，按照课程学习，半个月时间可以基本掌握，并且能做出作品也是很有成就感。
 <h5>3、javascrip基础。</h5>
-待续。。。
+学习目标：熟悉js语法，了解DOM，BOM，能够做出常见的动态效果，如轮播、拖拽等。<br/>
+免费视频课程：https://www.aiyexue.com/web/267.html<br/>
+一个比较好的收费课程:https://study.miaov.com/study/show/chapter/651<br/>
+js参考手册：https://www.w3school.com.cn/jsref/index.asp<br/>
